@@ -1,7 +1,5 @@
-*/build
-*/build/*
-*/.vscode
-*/.vscode/*
+**/build
+**/.vscode
 homework5/solution5/examples
 homework5/solution5/box-*
 homework5/solution5/pinkroom-*

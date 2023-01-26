@@ -1,3 +1,0 @@
-/home/wiennan/桌面/games202/homework5/solution5/build/CMakeFiles/Denoise.dir
-/home/wiennan/桌面/games202/homework5/solution5/build/CMakeFiles/edit_cache.dir
-/home/wiennan/桌面/games202/homework5/solution5/build/CMakeFiles/rebuild_cache.dir
