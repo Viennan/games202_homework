@@ -1,0 +1,6 @@
+/home/wiennan/桌面/games202/homework4/solution4/lut-gen/build/CMakeFiles/lut-Emu-MC.dir
+/home/wiennan/桌面/games202/homework4/solution4/lut-gen/build/CMakeFiles/lut-Eavg-MC.dir
+/home/wiennan/桌面/games202/homework4/solution4/lut-gen/build/CMakeFiles/lut-Emu-IS.dir
+/home/wiennan/桌面/games202/homework4/solution4/lut-gen/build/CMakeFiles/lut-Eavg-IS.dir
+/home/wiennan/桌面/games202/homework4/solution4/lut-gen/build/CMakeFiles/edit_cache.dir
+/home/wiennan/桌面/games202/homework4/solution4/lut-gen/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/wiennan/桌面/games202/homework5/solution5/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/games202/homework5/solution5/src -I/home/wiennan/桌面/games202/homework5/solution5/src/ext  -fopenmp -g -std=gnu++17 -o CMakeFiles/Denoise.dir/src/denoiser.cpp.o -c /home/wiennan/桌面/games202/homework5/solution5/src/denoiser.cpp",
+  "file": "/home/wiennan/桌面/games202/homework5/solution5/src/denoiser.cpp"
+},
+{
+  "directory": "/home/wiennan/桌面/games202/homework5/solution5/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/games202/homework5/solution5/src -I/home/wiennan/桌面/games202/homework5/solution5/src/ext  -fopenmp -g -std=gnu++17 -o CMakeFiles/Denoise.dir/src/main.cpp.o -c /home/wiennan/桌面/games202/homework5/solution5/src/main.cpp",
+  "file": "/home/wiennan/桌面/games202/homework5/solution5/src/main.cpp"
+},
+{
+  "directory": "/home/wiennan/桌面/games202/homework5/solution5/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/games202/homework5/solution5/src -I/home/wiennan/桌面/games202/homework5/solution5/src/ext  -fopenmp -g -std=gnu++17 -o CMakeFiles/Denoise.dir/src/util/image.cpp.o -c /home/wiennan/桌面/games202/homework5/solution5/src/util/image.cpp",
+  "file": "/home/wiennan/桌面/games202/homework5/solution5/src/util/image.cpp"
+},
+{
+  "directory": "/home/wiennan/桌面/games202/homework5/solution5/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/games202/homework5/solution5/src -I/home/wiennan/桌面/games202/homework5/solution5/src/ext  -fopenmp -g -std=gnu++17 -o CMakeFiles/Denoise.dir/src/util/imageutil.cpp.o -c /home/wiennan/桌面/games202/homework5/solution5/src/util/imageutil.cpp",
+  "file": "/home/wiennan/桌面/games202/homework5/solution5/src/util/imageutil.cpp"
+},
+{
+  "directory": "/home/wiennan/桌面/games202/homework5/solution5/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/games202/homework5/solution5/src -I/home/wiennan/桌面/games202/homework5/solution5/src/ext  -fopenmp -g -std=gnu++17 -o CMakeFiles/Denoise.dir/src/util/mathutil.cpp.o -c /home/wiennan/桌面/games202/homework5/solution5/src/util/mathutil.cpp",
+  "file": "/home/wiennan/桌面/games202/homework5/solution5/src/util/mathutil.cpp"
+}
+]
